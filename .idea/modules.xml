@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays_Tool/Arrays_Tool.iml" filepath="$PROJECT_DIR$/Arrays_Tool/Arrays_Tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalInterface/FunctionalInterface.iml" filepath="$PROJECT_DIR$/FunctionalInterface/FunctionalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE_baima.iml" filepath="$PROJECT_DIR$/JavaSE_baima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math_Tools/Math_Tools.iml" filepath="$PROJECT_DIR$/Math_Tools/Math_Tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_1_Bubble_Sort/Practice_1_Bubble_Sort.iml" filepath="$PROJECT_DIR$/Practice_1_Bubble_Sort/Practice_1_Bubble_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_2_Binary_Search/Practice_2_Binary_Search.iml" filepath="$PROJECT_DIR$/Practice_2_Binary_Search/Practice_2_Binary_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_3_Frog_Jump/Practice_3_Frog_Jump.iml" filepath="$PROJECT_DIR$/Practice_3_Frog_Jump/Practice_3_Frog_Jump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_4_Palindrome/Practice_4_Palindrome.iml" filepath="$PROJECT_DIR$/Practice_4_Palindrome/Practice_4_Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_5_Hanoi/Practice_5_Hanoi.iml" filepath="$PROJECT_DIR$/Practice_5_Hanoi/Practice_5_Hanoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regular_Expression/Regular_Expression.iml" filepath="$PROJECT_DIR$/Regular_Expression/Regular_Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/StringBuilder/StringBuilder.iml" />
+    </modules>
+  </component>
+</project>
