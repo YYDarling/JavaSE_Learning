@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnonymousInnerClass/AnonymousInnerClass.iml" filepath="$PROJECT_DIR$/AnonymousInnerClass/AnonymousInnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays_Tool/Arrays_Tool.iml" filepath="$PROJECT_DIR$/Arrays_Tool/Arrays_Tool.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionalInterface/FunctionalInterface.iml" filepath="$PROJECT_DIR$/FunctionalInterface/FunctionalInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE_baima.iml" filepath="$PROJECT_DIR$/JavaSE_baima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearList/LinearList.iml" filepath="$PROJECT_DIR$/LinearList/LinearList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalInnnerClass/LocalInnnerClass.iml" filepath="$PROJECT_DIR$/LocalInnnerClass/LocalInnnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math_Tools/Math_Tools.iml" filepath="$PROJECT_DIR$/Math_Tools/Math_Tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsReference/MethodsReference.iml" filepath="$PROJECT_DIR$/MethodsReference/MethodsReference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice_1_Bubble_Sort/Practice_1_Bubble_Sort.iml" filepath="$PROJECT_DIR$/Practice_1_Bubble_Sort/Practice_1_Bubble_Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice_2_Binary_Search/Practice_2_Binary_Search.iml" filepath="$PROJECT_DIR$/Practice_2_Binary_Search/Practice_2_Binary_Search.iml" />
@@ -15,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/Practice_4_Palindrome/Practice_4_Palindrome.iml" filepath="$PROJECT_DIR$/Practice_4_Palindrome/Practice_4_Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice_5_Hanoi/Practice_5_Hanoi.iml" filepath="$PROJECT_DIR$/Practice_5_Hanoi/Practice_5_Hanoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regular_Expression/Regular_Expression.iml" filepath="$PROJECT_DIR$/Regular_Expression/Regular_Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticInnerClass/StaticInnerClass.iml" filepath="$PROJECT_DIR$/StaticInnerClass/StaticInnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/StringBuilder/StringBuilder.iml" />
     </modules>
