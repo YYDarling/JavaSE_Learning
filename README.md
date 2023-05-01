@@ -11,8 +11,8 @@
 <a href="https://www.bilibili.com/video/BV1m14y1W7BS/?spm_id_from=333.337.search-card.all.click&vd_source=f7b1e3f4e5a749808b3cdf3250e641c7">Link</a>
 
 
-## Idea 快捷键 + Mac
+## 3. Idea 快捷键 + Mac
 <a href="https://cloud.tencent.com/developer/article/1796448">Link</a>
 
-## Git Fast Learning
+## 4. Git Fast Learning
 <a href="https://lijunyi.xyz/blogs/other/2021/11/111101.html#%E6%A0%87%E7%AD%BE%F0%9F%8E%8B">Link</a>
