@@ -10,20 +10,18 @@ package Entity;
 public class LinkedList<E> {
 
     //头节点
-    private Node<E> head = new Node<E>(null);
-    private int size = 0;   //记录一下长度
+    public Node<E> head = new Node<E>(null);
+    public int size = 0;   //记录一下长度
 
-    /*
-    1. 构建Node类
-     */
-    private static class Node<E> {  //节点类， 仅供内部使用：
+    public class Node<E> {  //节点类， 仅供内部使用：
         private E element;  //每个节点都存放元素
-        Node <E> next;  //以及指向下一个节点的引用
+        Node<E> next;  //以及指向下一个节点的引用
 
         public Node(E element) {  //构造方法
             this.element = element;
         }
     }
+
 
     /*
     2.添加元素

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnonymousInnerClass/AnonymousInnerClass.iml" filepath="$PROJECT_DIR$/AnonymousInnerClass/AnonymousInnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays_Tool/Arrays_Tool.iml" filepath="$PROJECT_DIR$/Arrays_Tool/Arrays_Tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionalInterface/FunctionalInterface.iml" filepath="$PROJECT_DIR$/FunctionalInterface/FunctionalInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
@@ -20,10 +21,13 @@
       <module fileurl="file://$PROJECT_DIR$/Practice_3_Frog_Jump/Practice_3_Frog_Jump.iml" filepath="$PROJECT_DIR$/Practice_3_Frog_Jump/Practice_3_Frog_Jump.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice_4_Palindrome/Practice_4_Palindrome.iml" filepath="$PROJECT_DIR$/Practice_4_Palindrome/Practice_4_Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice_5_Hanoi/Practice_5_Hanoi.iml" filepath="$PROJECT_DIR$/Practice_5_Hanoi/Practice_5_Hanoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regular_Expression/Regular_Expression.iml" filepath="$PROJECT_DIR$/Regular_Expression/Regular_Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticInnerClass/StaticInnerClass.iml" filepath="$PROJECT_DIR$/StaticInnerClass/StaticInnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/StringBuilder/StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
     </modules>
   </component>
 </project>
