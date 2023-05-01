@@ -14,5 +14,5 @@
 ## Idea 快捷键 + Mac
 <a href="https://cloud.tencent.com/developer/article/1796448">Link</a>
 
-##Git Fast Learning
+## Git Fast Learning
 <a href="https://lijunyi.xyz/blogs/other/2021/11/111101.html#%E6%A0%87%E7%AD%BE%F0%9F%8E%8B">Link</a>
