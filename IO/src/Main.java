@@ -1,4 +1,5 @@
 import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class Main {
@@ -75,14 +76,32 @@ public class Main {
         (1)输出流：OutputStream
          */
 
-        try (FileInputStream inputStream = new FileInputStream("test.txt")) {
-            byte[] bytes = new byte[1024];
-            int len = inputStream.read(bytes);
-            System.out.println(len);
-            System.out.println(new String(bytes, 0, len));
+//        try (FileOutputStream stream = new FileOutputStream("test.txt",true)) { //加上true的话，就变成追加模式， 一直会继续写
+//            stream.write("hello world".getBytes());  //可以定义从哪里开始写， 到哪里结束
+//            stream.flush(); //刷新缓冲区, 将缓冲区的内容写入文件,立即生效
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+
+        /*
+        (3) 文件拷贝
+         */
+        //1. 读取源文件test.mov
+        try (FileInputStream in = new FileInputStream("test.mov");
+             FileOutputStream out = new FileOutputStream("test2.mov")) {
+            //2. 读取源文件内容
+            byte[] buffer = new byte[1024];
+            int len = -1;
+            while ((len = in.read(buffer)) != -1) { //读取到文件末尾，返回-1
+                //3. 写入目标文件test2.mov
+                out.write(buffer, 0, len);
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+
+
 
     }
 }
