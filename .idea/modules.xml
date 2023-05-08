@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math_Tools/Math_Tools.iml" filepath="$PROJECT_DIR$/Math_Tools/Math_Tools.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodsReference/MethodsReference.iml" filepath="$PROJECT_DIR$/MethodsReference/MethodsReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOutputStream/ObjectOutputStream.iml" filepath="$PROJECT_DIR$/ObjectOutputStream/ObjectOutputStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice_1_Bubble_Sort/Practice_1_Bubble_Sort.iml" filepath="$PROJECT_DIR$/Practice_1_Bubble_Sort/Practice_1_Bubble_Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice_2_Binary_Search/Practice_2_Binary_Search.iml" filepath="$PROJECT_DIR$/Practice_2_Binary_Search/Practice_2_Binary_Search.iml" />
