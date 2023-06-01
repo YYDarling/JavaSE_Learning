@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/InputStreamReader/InputStreamReader.iml" filepath="$PROJECT_DIR$/InputStreamReader/InputStreamReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE_baima.iml" filepath="$PROJECT_DIR$/JavaSE_baima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Multithreading/Java_Multithreading.iml" filepath="$PROJECT_DIR$/Java_Multithreading/Java_Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearList/LinearList.iml" filepath="$PROJECT_DIR$/LinearList/LinearList.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
